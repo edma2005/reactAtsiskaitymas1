@@ -1,0 +1,10 @@
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjM5MCwiZW1haWwiOiJlZG1hQGVkbWExLmx0IiwiaWF0IjoxNjgwMDE2MjE5fQ.kpmYxY1nltPX9KRKisZLnt6E06oywMQ2qonl_GkN63o"
+
+"email": "edma@edma1.lt",
+"password": "edmaedma1"
+
+
+https://autumn-delicate-wilderness.glitch.me/v1/content/skills
+
+
+https://github.com/edma2005/reactAtsiskaitymas1
